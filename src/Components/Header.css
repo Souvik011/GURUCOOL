@@ -4,6 +4,7 @@
     justify-content: flex-start;
     height: 5rem;
     width: 100%;
+    max-width: max-content;
     background-color: brown;
     box-shadow: 0 3px 7px 0 rgb(196, 83, 83);
 }
